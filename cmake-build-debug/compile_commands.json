@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug",
+  "command": "/usr/bin/c++  -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -std=c++17 -o CMakeFiles/SortedUniqueVectoredList_dlaStudentow.dir/SortedUniqueVectoredList.cpp.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/SortedUniqueVectoredList.cpp\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/SortedUniqueVectoredList.cpp"
+},
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug",
+  "command": "/usr/bin/c++  -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -std=c++17 -o CMakeFiles/SortedUniqueVectoredList_dlaStudentow.dir/SortedUniqueVectoredListTests.cpp.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/SortedUniqueVectoredListTests.cpp\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/SortedUniqueVectoredListTests.cpp"
+},
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug/lib/googlemock",
+  "command": "/usr/bin/c++  -I\"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/include\" -I\"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/src/gmock-all.cc\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug/lib/googlemock",
+  "command": "/usr/bin/c++  -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/src/gmock_main.cc\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug/lib/googletest",
+  "command": "/usr/bin/c++  -I\"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -I\"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/src/gtest-all.cc\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/cmake-build-debug/lib/googletest",
+  "command": "/usr/bin/c++  -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/include\" -isystem \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest\" -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/src/gtest_main.cc\"",
+  "file": "/home/piotrek/Downloads/zaj10SortedUniqueVectoredList_dlaStudentow(1)/zaj10SortedUniqueVectoredList_dlaStudentow/lib/googletest/src/gtest_main.cc"
+}
+]

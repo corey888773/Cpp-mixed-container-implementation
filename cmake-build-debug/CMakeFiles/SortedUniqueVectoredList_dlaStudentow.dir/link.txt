@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SortedUniqueVectoredList_dlaStudentow.dir/SortedUniqueVectoredList.cpp.o CMakeFiles/SortedUniqueVectoredList_dlaStudentow.dir/SortedUniqueVectoredListTests.cpp.o -o bin/SortedUniqueVectoredList_dlaStudentow  lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
